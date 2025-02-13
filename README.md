@@ -2,7 +2,7 @@
 GUI for Ollama LLM
 
 
-##What to do:
+## What to do:
 1. install Ollama, then any LLM model.
 2. install Streamlit and run this code.
 
