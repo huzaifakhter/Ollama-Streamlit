@@ -1,5 +1,5 @@
 # Ollama-Streamlit
-GUI for Ollama LLM
+GUI for Ollama LLM Using Sreamlit.
 
 
 ## What to do:
